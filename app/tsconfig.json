@@ -1,0 +1,37 @@
+// {
+//   "compilerOptions": {
+//     "allowJs": true,
+//     "baseUrl": ".",
+//     "jsx": "react",
+//     "module": "commonjs",
+//     "strict": true,
+//     "target": "es6"
+//   }
+// }
+
+
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "commonjs",
+   
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react"
+  },
+  "include": [
+    "src"
+  ]
+}
