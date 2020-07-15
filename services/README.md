@@ -1,4 +1,4 @@
-# GraphQL & Sequelize Demo Project
+# backend nodejs end graphql server
 
 ## Getting the database set up
 
